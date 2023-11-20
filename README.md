@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=80&section=header&text=🤖_🤖&fontSize=50&fontColor=FFFFFF&color=0:82E8CF,100:EDFC74&font=Redressed)
+![header](https://capsule-render.vercel.app/api?type=rect&height=60&section=header&text=🤖%20안녕하세요%20🤖&fontSize=30&fontColor=FFFFFF&color=0:82E8CF,100:EDFC74&font=Redressed)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=안녕하세요%20개발자%20나종현입니다.&font=Gaegu&size=50&fontColor=000000&height=70&width=650)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=개발자%20나종현입니다.&font=Gaegu&size=50&fontColor=000000&height=70&width=650)](https://git.io/typing-svg)
 
 ---
 
@@ -30,7 +30,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=i0364842)](https:/solved.ac/profile/i0364842) &nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najonghyun&size_weight=0.5&count_weight=0.5)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=i0364842)](https:/solved.ac/profile/i0364842) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najonghyun&size_weight=0.5&count_weight=0.5)
 
 
 
