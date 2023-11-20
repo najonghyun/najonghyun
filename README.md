@@ -2,7 +2,7 @@
 
 
 <h1 align="center">안녕하세요</h1>
-<h1 style="font-family: 'Gaegu';" align="center">안녕하세요</h1>
+<h1 style="font-family: Gaegu;" align="center">안녕하세요</h1>
 <h3 align="center">🛠 Stack 🛠</h3>
 
 
