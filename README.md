@@ -30,5 +30,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=안녕하세여&font=Gaegu&size=30&fontColor=000000)](https://git.io/typing-svg)
+
+[![Solved.ac
+i0364842](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najonghyun&size_weight=0.5&count_weight=0.5)
 
