@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Profile🤖&fontSize=50&fontColor=FFFFFF&color=0:82E8CF,100:EDFC74&font=Redressed)
 
 <h2 style="color: #ff5733; fontSize:30; fontFamily:Gaegu">안녕하세요</h2>
-## 🛠 Stack 🛠
+
+<h2 style="color: #ff5733; fontSize:40; fontFamily:Gaegu">🛠 Stack 🛠</h2>
+
 <img src="https://img.shields.io/badge/Java-bf2e24?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
@@ -14,7 +16,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-#0088CC?style=flat&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Native-0088CC?style=flat&logo=React&logoColor=white" />
 
 
 
