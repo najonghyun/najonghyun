@@ -2,7 +2,7 @@
 
 <div align="center">
     <h1 style="color: #ff5733; fontSize:30;">안녕하세요</h1>
-# 🛠%20Stack%20🛠
+    <h3 style="color: #ff5733; fontSize:60;">🛠 Stack 🛠</h3>
     
     <div style="display: inline-block;">
         <img src="https://img.shields.io/badge/Java-bf2e24?style=flat-square&logo=Java&logoColor=white" />
@@ -23,7 +23,8 @@
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/React%20Native-0088CC?style=flat&logo=React&logoColor=white" />
     </div>
-    
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=안녕하세여&font=Gaegu&size=30&fontColor=000000)](https://git.io/typing-svg)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najonghyun&size_weight=0.5&count_weight=0.5)
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=안녕하세여&font=Gaegu&size=30&fontColor=000000)](https://git.io/typing-svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najonghyun&size_weight=0.5&count_weight=0.5)
+
