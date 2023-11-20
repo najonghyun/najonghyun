@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/React%20Native-0088CC?style=flat&logo=React&logoColor=white" />
 </div>
 
+---
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=안녕하세여&font=Gaegu&size=30&fontColor=000000)](https://git.io/typing-svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najonghyun&size_weight=0.5&count_weight=0.5)
