@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Profile🤖&fontSize=50&fontColor=FFFFFF&color=0:82E8CF,100:EDFC74&font=Redressed)
 
 
-<h1 style="color: #ff5733; fontSize:30;" align="center">안녕하세요</h1>
-<h3 style="color: #ff5733; fontSize:60;" align="center">🛠 Stack 🛠</h3>
+<h1 align="center">안녕하세요</h1>
+<h1 style="font-family: 'Gaegu';" align="center">안녕하세요</h1>
+<h3 align="center">🛠 Stack 🛠</h3>
 
 
 <div style="display: inline-block;" align="center">
