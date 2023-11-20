@@ -2,7 +2,7 @@
 
 <div align="center">
     <h1 style="color: #ff5733; fontSize:30;">안녕하세요</h1>
-    <p style="color: #ff5733; fontSize:40;">🛠 Stack 🛠</p>
+# 🛠%20Stack%20🛠
     
     <div style="display: inline-block;">
         <img src="https://img.shields.io/badge/Java-bf2e24?style=flat-square&logo=Java&logoColor=white" />
