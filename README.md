@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20Native-0088CC?style=flat&logo=React&logoColor=white" />
+    <img src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white" />
 </div>
 
 ---
