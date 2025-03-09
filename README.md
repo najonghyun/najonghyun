@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=안녕하세요%20섬세하고%20세세한%20개발자%20나종현입니다.&font=Gaegu&size=50&fontColor=000000&height=70&width=1000)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=2500&pause=4000&color=000080&lines=안녕하세요%20섬세한%20프론트앤드%20개발자%20나종현입니다.&font=Gaegu&size=50&fontColor=000000&height=80&width=1000)]()
 
 ---
 
