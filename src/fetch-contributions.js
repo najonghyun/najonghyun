@@ -225,6 +225,7 @@ export async function fetchContributions(username, token = null, options = {}) {
     const contributions = Array.from(repoMap.values()).sort((a, b) => b.prs.length - a.prs.length);
 
     const topRepos = contributions.slice(0, 10);
+    const totalPRs = contributions.reduce((sum, repo) => sum + repo.prs.length, 0);
     await Promise.all(
         topRepos.map(async (repo) => {
             repo.avatarBase64 = await fetchAvatarAsBase64(repo.avatarUrl);
@@ -233,7 +234,7 @@ export async function fetchContributions(username, token = null, options = {}) {
 
     return {
         username: sanitizedUsername,
-        totalPRs: data.total_count || 0,
+        totalPRs,
         totalRepos: contributions.length,
         contributions,
     };
