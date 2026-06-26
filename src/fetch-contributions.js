@@ -118,7 +118,7 @@ async function fetchAvatarAsBase64(url) {
 }
 
 export async function fetchContributions(username, token = null, options = {}) {
-  const { excludeOrgs = [], includeOrgs = [] } = options;
+  const { excludeOrgs = ['wanch-coach'], includeOrgs = [] } = options;
 
   // 입력 검증
   if (!username || typeof username !== 'string') {
