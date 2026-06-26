@@ -35,7 +35,6 @@
 
 ---
 
-### Open Source Contributions
 <p align="center">
   <img src="./contributions.svg" alt="My Contributions" />
 </p>
