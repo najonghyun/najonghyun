@@ -27,9 +27,19 @@
 
 ---
 
+<p align="center">
+  <a href="https://solved.ac/profile/i0364842">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=i0364842" />
+  </a>
+</p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=i0364842)](https:/solved.ac/profile/i0364842)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najonghyun&size_weight=0.5&count_weight=0.5)
+---
+
+### Open Source Contributions
+<p align="center">
+  <img src="./contributions.svg" alt="My Contributions" />
+</p>
 
 
 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najonghyun&size_weight=0.5&count_weight=0.5"> -->
